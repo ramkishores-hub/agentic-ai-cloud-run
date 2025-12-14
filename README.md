@@ -1,4 +1,4 @@
-# Lab 3: Prototype to Production - Starter Files
+## Lab 3: Prototype to Production - Starter Files
 
 Welcome to Lab 3! This is the starter repository where you'll build a production-ready ADK agent step by step.
 
