@@ -1,5 +1,5 @@
 import os
-os.environ["GOOGLE_API_KEY"]='AIzaSyBof9_CdjXAmzCwbfA_6NQf7Ybg27OY4Lw'
+os.environ["GOOGLE_API_KEY"]=''
 os.environ["GOOGLE_GENAI_USE_VERTEXAI"]='FALSE'
 from pathlib import Path
 import logging
